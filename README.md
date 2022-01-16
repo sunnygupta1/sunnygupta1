@@ -1,7 +1,5 @@
 - 👋 Hi, I’m sunny
-- 👀 I’m interested in computer devlopment
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on any project which help to improve my computer development skill
 - 📫 How to reach me sunnygupta60000@gmail.com
 
 <!---
